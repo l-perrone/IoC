@@ -1,3 +1,5 @@
 ip, descr, country, submitted
 45.142.120.31, SMTP auth brute force, Iran, 2020-10-04 14:09:18.342991
 45.142.120.32, SMTP auth brute force, Iran, 2020-10-04 14:09:18.345771
+
+120.79.188.144, FTP auth brute force, China, 2020-10-04 14:09:18.342991
