@@ -1,6 +1,1 @@
-45.142.120.31, SMTP BruteForce
-
-test
-IP2, ssh brute
-IP2, ssh brute
-IP3, ssh brute
+93.55.120.10, test, ITA, 2020-10-04 14:01:53.971575
