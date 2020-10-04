@@ -6,3 +6,4 @@ ip, descr, country, submitted
 
 222.186.30.218, ssh malicious, China, 2020-10-04 16:42:50.733102
 222.186.30.218, ssh malicious, China, 2020-10-04 16:42:50.733102
+83.97.20.31, port scan, Romania, 2020-10-04 16:42:50.733188
